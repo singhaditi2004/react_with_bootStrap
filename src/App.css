@@ -1,0 +1,13 @@
+h1{
+    font-weight: 600;
+    font-size: 56px;
+    margin: 20px;
+    margin-bottom: 25px;
+}
+input{
+    width: 100%;
+}
+
+.items{
+    text-align: left;
+}
