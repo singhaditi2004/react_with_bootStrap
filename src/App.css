@@ -11,3 +11,11 @@ input{
 .items{
     text-align: left;
 }
+.kg-row {
+    align-items: center;
+    padding: 10px 0;
+}
+
+.kg-button {
+    width: 100%;
+}
